@@ -47,7 +47,7 @@
 
 | 模型 | 精度(all:%) | 帧率(s) | 漏检率 | 训练成本 |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
-| ppyolo_tiny     | 0.5_mAP:95+     | <font color="red">3-5</font>     | 较高     | 低     |
+| ppyolo_tiny     | 0.5_mAP:95+     | <font color="red">3-5</font>     | 一般     | 低     |
 | ppyolo_r18_vd     | <font color="red">0.5_mAP:97+</font>     | 1.4-1.6     | <font color="red">较低</font>     | 低     |
 
 **数据集格式**: COCO/VOC都有尝试, 本项目选用COCO介绍。
