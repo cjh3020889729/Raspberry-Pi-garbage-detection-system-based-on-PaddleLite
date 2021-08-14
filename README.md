@@ -12,6 +12,15 @@
 
 - `硬件协同`: (小车结构在该项目的展示中，暂未说明)
 
+其它资料:
+
+- [PPDet简单使用教程](https://www.bilibili.com/video/BV1vK4y1M728)
+
+- [部署效果与部署说明](https://www.bilibili.com/video/BV1ph411r718?p=4)
+
+- [平台项目地址](https://aistudio.baidu.com/aistudio/projectdetail/2283361)
+
+
 # 一、基于PPDet开发垃圾检测模型
 
 > PPDet: PaddleDetection为飞桨的官方目标检测套件，可以实现众多目标检测模型的训练。
